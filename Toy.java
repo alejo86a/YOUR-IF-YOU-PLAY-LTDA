@@ -7,7 +7,7 @@ public class Toy {
     private String clothesType;
 
     public Toy(int code, String name, int numberArticulations, double unitPrice, int limitAge,
-                String clothesType, String mainEnenmyName) {
+                String clothesType) {
         this.code = code;
         this.name = name;
         this.numberArticulations = numberArticulations;
